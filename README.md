@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I like to fiddle around and code every once in a while.
 <!--
 **sterling-tenn/sterling-tenn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
