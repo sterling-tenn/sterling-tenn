@@ -5,6 +5,7 @@ At the moment, I'm having a lot of fun working with Python.
 
 Some languages I know:
 * Python
+* Powershell
 * Java
 * C++
 
