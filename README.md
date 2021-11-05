@@ -16,3 +16,6 @@ Plans:
 * Build my [github.io webpage](https://sterling-tenn.github.io/) - [(Repository Here)](https://github.com/sterling-tenn/sterling-tenn.github.io)
 * Learn Javascript
 * Learn C/C#
+<hr/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sterling-tenn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
