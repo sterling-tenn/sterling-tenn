@@ -1,4 +1,3 @@
-### Hi there 👋<hr/>
 I like to fiddle around and code every once in a while.<br/>
 At the moment, I'm having a lot of fun working with Python and scripting Powershell tools.
 <hr/>
